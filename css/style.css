@@ -1,0 +1,49 @@
+.body {
+    background-color: blanchedalmond;
+}
+
+
+#Hero {
+    background-image: url(../images/hero.webp);
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: right
+}
+
+#AboutMedetail {
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: auto;
+}
+
+h3 {
+    text-align: center;
+    text-size-adjust: 15;
+}
+
+.card-body {
+    background-color: bisque;
+}
+
+.card-text {
+    background-color: rgb(187, 146, 97);
+    text-align: center;
+}
+
+#Contact Details {
+    justify-content: space-evenly;
+    align-content: center;
+
+}
+
+.btnbtn-primary {
+    text-align: center;
+    justify-content: center;
+}
